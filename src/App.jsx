@@ -1,14 +1,14 @@
-import './index.css';
+import "./index.css";
 
-import {Layout} from "./helpers/Layout.jsx";
+import { Layout } from "@/components/Layout.jsx";
+import { Login } from "@/pages/Login.jsx";
 
 function App() {
-
     return (
         <Layout>
-            Hello World
+            <Login />
         </Layout>
-    )
+    );
 }
 
-export default App
+export default App;
