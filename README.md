@@ -4,15 +4,14 @@ This is a sample playground project to explain some best practices when composin
 
 ## Table of Contents
 
-1. [Composing React Components - Best Practices](#composing-react-components---best-practices)
-2. [Local Development](#local-development)
-3. [Concepts Explained](#concepts-explained)
+1. [Local Development](#local-development)
+1. [Concepts Explained](#concepts-explained)
     - [Pure Functions / Components](#pure-functions--components)
         - [Pure Functions](#pure-functions)
         - [Pure Components](#pure-components)
     - [Low Coupling](#low-coupling)
     - [High Cohesion](#high-cohesion)
-4. [Closing Note](#closing-note)
+1. [Closing Note](#closing-note)
 
 
 ## Local development
